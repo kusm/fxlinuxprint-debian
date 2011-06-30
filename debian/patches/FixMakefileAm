@@ -1,0 +1,9 @@
+--- fxlinuxprint.orig/Makefile.am
++++ fxlinuxprint/Makefile.am
+@@ -1,5 +1,5 @@
+ cupsfilterdir = /usr/lib/cups/filter
+-cupsppddir = /usr/share/cups/model/FujiXerox/en
++cupsppddir = /usr/share/ppd/FujiXerox
+ cupsmimedir = /etc/cups
+ 
+ cupsfilter_PROGRAMS = pstopdffx pdftopjlfx pdftopdffx

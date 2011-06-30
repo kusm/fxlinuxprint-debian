@@ -1,16 +1,16 @@
-Format: http://dep.debian.net/deps/dep5
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: fxlinuxprint
 Source: http://www.fujixerox.co.jp/download/apeosport/download/c4300series/linux/
 
 Files: *
-Copyright: 2011 Fuji Xerox Co.,Ltd.
-License: GPL-2.0
+Copyright: 2006-2011 Fuji Xerox Co.,Ltd.
+License: GPL-2.0+
 
 Files: debian/*
-Copyright: 2011 Youhei SASAKI <uwabami@gfd-dennou.org>
-License: GPL-2.0
+Copyright: 2008-2014 Youhei SASAKI <uwabami@gfd-dennou.org>
+License: GPL-2.0+
 
-License: GPL-2.0
+License: GPL-2.0+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 2 of the License.
