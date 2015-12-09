@@ -8,7 +8,7 @@ include /usr/share/dpkg/buildflags.mk
 	dh $@  --with autoreconf
 
 override_dh_auto_build:
-	gzip $(CURDIR)/fxlinuxprint.ppd
+	gzip -n $(CURDIR)/fxlinuxprint.ppd
 
 override_dh_autoreconf:
 	dh_autoreconf --as-needed
