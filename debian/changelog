@@ -1,14 +1,9 @@
 fxlinuxprint (1.1.1-1~p2) unstable; urgency=medium
 
-  * Bump Standard Version: 3.9.6
+  * Bump Standard version: 3.9.6
+  * Add gzip -n option to avoid timestamped gz
 
- -- Youhei SASAKI <uwabami@gfd-dennou.org>  Thu, 10 Dec 2015 01:58:11 +0900
-
-fxlinuxprint (1.1.1-1~p1) UNRELEASED; urgency=medium
-
-  * Rebuild against Debian 7.5
-
- -- Youhei SASAKI <uwabami@gfd-dennou.org>  Mon, 19 May 2014 22:44:45 +0900
+ -- Youhei SASAKI <uwabami@gfd-dennou.org>  Thu, 10 Dec 2015 02:04:59 +0900
 
 fxlinuxprint (1.0.1-1) unstable; urgency=low
 
