@@ -1,3 +1,9 @@
+fxlinuxprint (1.1.1-1~p2) unstable; urgency=medium
+
+  * Rebuild, bump 
+
+ -- Youhei SASAKI <uwabami@gfd-dennou.org>  Thu, 10 Dec 2015 01:58:11 +0900
+
 fxlinuxprint (1.1.1-1~p1) UNRELEASED; urgency=medium
 
   * Rebuild against Debian 7.5

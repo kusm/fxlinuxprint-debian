@@ -3,7 +3,7 @@ Section: text
 Priority: optional
 Maintainer: Youhei SASAKI <uwabami@gfd-dennou.org>
 Build-Depends: debhelper (>= 9), dpkg-dev (>= 1.16.1~), dh-autoreconf, autotools-dev, libcups2-dev
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: http://www.fujixerox.co.jp/download/apeosport/download/c4300series/linux/
 #Vcs-Git: git://git.debian.org/collab-maint/fxlinuxprint.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/fxlinuxprint.git;a=summary
